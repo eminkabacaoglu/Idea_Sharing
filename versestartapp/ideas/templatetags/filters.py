@@ -1,6 +1,5 @@
 from atexit import register
 from django import template
-from numpy import average
 
 register = template.Library()
 
